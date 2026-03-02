@@ -39,3 +39,19 @@ This project focuses on predicting whether a customer will make an insurance cla
 
 ```bash
 git clone https://github.com/Emmanuelpeter75/Claim_prediction-project.git
+
+```
+2. Open `Capstone project.ipynb` in **Jupyter Notebook**  
+3. Ensure all **dependencies are installed**  
+4. Run the notebook **cells step by step**  
+
+---
+
+## Key Takeaways
+- Learned practical **data cleaning** and **preprocessing techniques**  
+- Built a real-world **machine learning classification model**  
+- Gained experience **interpreting model outputs** and evaluating performance  
+
+
+
+
